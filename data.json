@@ -1,0 +1,8 @@
+{
+    "utils": {
+        "main_guild_id": null,
+        "log_channel": null,
+        "backup_channel": null,
+        "file_hash": "generated_file_hash_here"
+    }
+}
